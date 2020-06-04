@@ -10,6 +10,21 @@ The [Hosting Team](https://make.wordpress.org/hosting/) works to improve the Wor
 
 Everyone is welcome! This may be folks hosting WordPress, interested in learning more about hosting WordPress, or working with WordPress hosts, like plugin and theme authors.
 
+### How does the Hosting team achieve this?
+The Hosting Team has two main projects:
+
+ * PHP Unit Test Runner & Reporter
+ * The Hosting Handbook for Hosters
+
+#### PHP Unit Test Runner & Reporter
+
+// TODO: Add a short explanation how the PHP Unit test runner & Reporter is helping the hosts but also the whole userbase and community
+
+#### The Hosting Handbook for Hosters
+The Hosting Handbook is a collection of best practice documentation developed collaboratively by the hosting team.
+
+// TODO: Add example about the memcached issue in the past. 
+
 ### When does the Hosting team meet?
 
 The Hosting Team meets in the WordPress Slack, in the [#hosting-community](https://wordpress.slack.com/archives/hosting-community/) channel. The conversations are in English. Check out the [WordPress Meeting calendar](https://make.wordpress.org/meetings#hosting) for the current schedule.
