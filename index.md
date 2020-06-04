@@ -16,12 +16,15 @@ The Hosting Team has two main projects:
  * PHP Unit Test Runner & Reporter
  * The Hosting Handbook for Hosters
 
+ Additionally we are here to help Hosters with issues on hosting WordPress. Plugin and Theme developers have a communication hub to reach out to hosters in any cases. 
+
 #### PHP Unit Test Runner & Reporter
 
 // TODO: Add a short explanation how the PHP Unit test runner & Reporter is helping the hosts but also the whole userbase and community
 
 #### The Hosting Handbook for Hosters
-The Hosting Handbook is a collection of best practice documentation developed collaboratively by the hosting team.
+The Hosting Handbook is a collection of best practice documentation developed collaboratively by the hosting team. 
+
 
 // TODO: Add example about the memcached issue in the past. 
 
