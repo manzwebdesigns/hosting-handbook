@@ -4,7 +4,13 @@ Once your site is up, how do you keep it that way? And what can you do if it goe
 
 ## Backups
 
-A WordPress site is composed of three (3) main components: Code WordPress core, zero (0) or more plugins, and one (1) or more themes Assets Typically images, documents and other user-upload files. This can also contain plugin or theme cache and/or configuration files as well. Database A set of tables containing your posts, pages, comments, links, settings, and other data.
+A WordPress site is composed of three (3) main components: 
+* Code
+  * WordPress core, zero (0) or more plugins, and one (1) or more themes
+* Assets
+  * Typically images, documents and other user-upload files. This can also contain plugin or theme cache and/or configuration files as well.
+ * Database
+  * A set of tables containing your posts, pages, comments, links, settings, and other data.
 
 > Your WordPress database contains user-generated content and configuration, including every post, every comment and every link you have on your website. If your database gets erased or corrupted, you stand to lose everything you have written. There are many reasons why this could happen and not all are things you can control. With a proper backup of your WordPress database and files, you can quickly restore things back to normal.
 
